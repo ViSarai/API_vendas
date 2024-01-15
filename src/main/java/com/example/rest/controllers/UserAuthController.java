@@ -5,7 +5,6 @@ import com.example.rest.dto.CredentialsTokenDTO;
 import com.example.rest.dto.ResponseTokenDTO;
 import com.example.rest.dto.SingUpRequest;
 import com.example.service.UserAuthService;
-import com.example.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
